@@ -13,7 +13,7 @@ How to make:
 How to make: 
 `![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
 
-Exemple:
+Result:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 > A Beautiful image
@@ -27,15 +27,22 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-# Lists
+# Todo List
 How to make:
 ```
-- Item 1
-- Item 2
-- Item 3
-```
-
-Example:
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+```
+
+Result:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+# Links
+
+How to make: `[google.com](https://www.google.com)`
+
+Result:
+[google.com](https://www.google.com)
